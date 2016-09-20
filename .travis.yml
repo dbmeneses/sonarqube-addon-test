@@ -4,7 +4,7 @@ addons:
     branches:
       - master
       - features-*
-    token: mytoken
+    secure: "XYkSNJc/OZOo+goUVDuAHapeJth4DiWZJmTxQquBhYo6wCmyFmnTkdMZi8m1HXuKmeyQqWxTcOgsHGS8TxUz5X++7aG49LUkxrVDaiy2j0/63NEyTzODbTaJg5sKD+6RGXX/9bBZ4hjsmzzILs6f626SyFT1RGfYJX0lx1JGvtm9tObym6ZIpkD/kKMo5h2WzTHqaBLNxfUe244ev+SSw+2vrZ2te9xHa4E8mgVTUq+Fp4wkN8z6Q782IsaVTHy1+8rTpSJihbLgabN/Mkod9t1CR7piNgYbx3BgDz3+gi3zHtz/rXF6WBksreWpadMOUXmz1DkzeKG4/J7ALRl2Ohh+JrOdWxL9r8zjdhlwsVm2TE06Yrp56HPHfhsODW0IvTLWttJS95vVtqW0TKFRERoSWlGlpNtBgSrbDNhklSbs3SlEABYPOWKgjVfbS6zHORRwlFLSSVIE46I2q2qOP8sS9pWj9oG0NLLjXDnlKXgiO1JbBW1eRcJSLV3RrsgAQO8XGLRb3092Y42SroPkdmX3QUl82Lxkyc1HwZuE2WjeFPrDNnM9L6eMLjm0kQrTByV5tUXwBCyNA+bsUx6NwJMJq08rJG+rvMtiSaah5UJL4lhSWF0fgWaO+XZBx1yzeYIzviE/6IPD4G4GBL1qlO1d6Y0ryxmI2iP5IdTq6/Y="
 
 sudo: false
 
