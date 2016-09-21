@@ -1,6 +1,7 @@
 language: java
 addons:
   sonarqube:
+    secure: "GUGZ47ceMntG5RoR3ZTzOYbe8DBsA7tS7zlMpjGMCnoKbgR2t3SBYVD8358cGutY8BylvfN40fahSxs4PLsKaof1Xp455YmyvkiqlHViKAdefQEAy44eZ1mItmTBKpTTXNJM7xctyxR1bF4XqECFuG6fFB2jHG9a6uZPUTuxEmGSmAo+d29idwGpy5WzVt7jRyYlzpB+os13Lv9ejqhQMZJj+9RhKyM0zsRnspEbmqcfXWAx7RmheqiGOtG2UP6owk4zE0yKBh7Oa0RCFsoKNSrTaGfrSPblVrtzg9vhgA62usiG82h6nnN05LKKrejZMEoGX0s9S4ndpCJh1guTPhK8yu25anP1v99r7V9JgBQxEBXqS/0f8vtZu5UMC8heIuQ9ld8zBokEnv7v6Kjiog0iO7FqbfQulA98H8v7fdS7luAxvUNvWLrwpK+ZPNuAtHtbtUel/iZV+1kdamMXGtr1WC/mfTMpKkRD1qewZOOdk7PevMQTEg3tlFAdV6BjavEl1W0pApN6pn4iX/qE+wMsi3i5WszPISNJt+RwrdUq4yW55sttosD+1oR87zXefhG4yb5US9DsyfpMvL+mF++OxMndbz0AR57oM6YwKy/qCHTSCIn8q6QKWvmO+3ujuLFxNeAw2iDv4aZcVCSueDPIf6hQpdvdMQoewrM6q3Q="
     branches:
       - master
       - features-*
