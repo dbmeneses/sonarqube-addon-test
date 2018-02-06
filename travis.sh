@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "$0"
 ls
 set -euo pipefail
 set +x
