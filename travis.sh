@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ls ../../..
+cat ../../../build.sh
 pwd
 echo "$0"
 ls
