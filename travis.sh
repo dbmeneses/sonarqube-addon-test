@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+ls
 set -euo pipefail
 set +x
 java -version
