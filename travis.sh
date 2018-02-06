@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ls ../..
+ls ../../..
 pwd
 echo "$0"
 ls
