@@ -1,9 +1,10 @@
 #!/bin/bash
 
 cat ../../../build.sh
+ls -l ../../../
+ls -l .
 pwd
 echo "$0"
-ls
 set -euo pipefail
 set +x
 java -version
